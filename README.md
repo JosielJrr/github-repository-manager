@@ -53,4 +53,4 @@ No diretório do projeto, você pode executar:
 
 ## Nota Adicional
 
-- Este projeto foi desenvolvido na Formação React Developer da Digital Innovation One.
+ - Este projeto foi desenvolvido como parte da Formação React Developer da [Digital Innovation One](https://www.dio.me/).
