@@ -3,7 +3,7 @@
 Aplicação web desenvolvida em React que permite buscar, visualizar e gerenciar repositórios do GitHub.
 
 <div align="center">
-  <img src="./public/github-repository-manager.PNG" alt="Preview Repository Manager" width="600px">
+  <img src="./public/gitHub-repository-manager.png" alt="Preview Repository Manager" width="600px">
 </div>
 
 ## ✨ Funcionalidades
