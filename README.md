@@ -19,6 +19,7 @@ Aplicação web desenvolvida em React que permite buscar, visualizar e gerenciar
 - [React](https://conf.react.dev/)
 - [Styled-components](https://styled-components.com/)
 - [GitHub API](https://docs.github.com/en/rest)
+- [Axios](https://axios-http.com/)
 
 ## ⚙️ Instalação
 
